@@ -6,7 +6,7 @@
      and automated ways to scrape data and re train then model.
   
 ## At this moment there are 4 files uploaded.
-     Scraping_part_1 a notebook with the processes from which the most data were scraped and got put in a database.
+     Scraping_part_1 a notebook with the processes from which Scraping and ETL done to the most data.
      Scraping_part_2 a notebook with the prototyping of scraping new data.
      Scraping_part_3 a notebook with a script to run once a week for scraping new data.
      UFC_functions a python file which contains custom made functions.
