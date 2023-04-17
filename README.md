@@ -1,4 +1,5 @@
 ## Note
+
 #### This is an end to end project from scraping to Mlops about predicting the result of ufc fights.
 #### Although it is not complete yet it was uploaded for demonstration purposes.
 #### In its final form it will consist of:
