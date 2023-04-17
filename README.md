@@ -5,7 +5,7 @@
   
 ## 
 ## At this moment there are 4 files uploaded.
-      A notebook from which the most data were scraped and put in a database.
-      A notebook from which new data where scraped.
-      A notebook with a script to run once a week.
-      A python file which contains custom made functions.
+     A notebook from which the most data were scraped and put in a database.
+     A notebook from which new data where scraped.
+     A notebook with a script to run once a week.
+     A python file which contains custom made functions.
