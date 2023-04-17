@@ -1,5 +1,6 @@
 ## Note
-#### This project is not complete and it was uploaded for demonstration purposes.
+#### This is an end to end project from scraping to Mlops about predicting the result of ufc fights.
+#### Although it is not complete yet it was uploaded for demonstration purposes.
 #### In its final form it will consist of:
      Scraping, Cleaning, ETL, EDA, Feature Engineering, ML Protyping, MLops, and automated ways to scrape data and re train then model.
   
