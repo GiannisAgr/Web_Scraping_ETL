@@ -1,7 +1,7 @@
 # Note
 #### This project is not complete and it was uploaded for demonstration purposes.
 #### In its final form it will consist of:
-     Web Scraping, Cleaning, ETL, EDA, Feature Engineering, ML Protyping, MLops, and automated ways to scrape data and re train then model.
+     Scraping, Cleaning, ETL, EDA, Feature Engineering, ML Protyping, MLops, and automated ways to scrape data and re train then model.
   
 ## 
 ## At this moment there are 4 files uploaded.
