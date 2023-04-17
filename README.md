@@ -1,8 +1,8 @@
 # Note
-# This project is not complete and it was uploaded for demonstration purposes.
+## This project is not complete and it was uploaded for demonstration purposes.
 # In its final form it will be consist of 
   Web Scraping, Cleaning, ETL, EDA, Feature Engineering, ML Protyping, MLops, and automated ways to scrape data and re train then model
-
+#
 # Keep in mind this project was made with final goal to build a machine learning model which predicts the results of ufc fights.
 # 
 
